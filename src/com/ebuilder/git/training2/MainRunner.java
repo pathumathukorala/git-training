@@ -6,6 +6,20 @@ public class MainRunner {
 		System.out.println("training 1");
 		System.out.print("This is the best day of my life!");
 		//System.out.println("this is not committed yet");
+
+		printHowISpendMyDay();
+	}
+
+	public void printHowISpendMyDay() {
+		System.out.println("wake up");
+		System.out.println("get a shower");
+		System.out.println("get ready and jump into the bus");
+		System.out.println("office office office");
+		System.out.println("!!!!Git training!!!!");
+		System.out.println("Go home");
+		System.out.println("yawn..... :O");
+		System.out.println("you are in my dreams......... GIT!!!!");
+
 	}
 
 }
