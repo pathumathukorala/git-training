@@ -21,5 +21,9 @@ public class MainRunner {
 		System.out.println("you are in my dreams......... GIT!!!!");
 
 	}
+	
+	private String trimString(String untrimmed) {
+		return untrimmed.trim();
+	}
 
 }
