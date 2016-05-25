@@ -25,5 +25,9 @@ public class MainRunner {
 	private String trimString(String untrimmed) {
 		return untrimmed.trim();
 	}
+	
+	private void brandNewFunction(String s1, String s2, String s3, boolean bool) {
+		//Some serious code goes in here.
+	}
 
 }
